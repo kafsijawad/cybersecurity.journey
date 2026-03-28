@@ -1,31 +1,31 @@
 # cybersecurity.journey
 Cybersecurity learning journey focused on ethical hacking, penetration testing, Linux and Python.
-# 🛡️ Cybersecurity Learning Journey
+# 🛡️ Parcours en Cybersécurité
 
-## 🎯 Goal
-Become a penetration tester (ethical hacker) and build practical cybersecurity skills.
-
----
-
-## 📚 Currently Learning
-- Linux basics
-- Networking fundamentals
-- Ethical hacking
-- Python scripting
+## 🎯 Objectif
+Devenir pentester (hacker éthique) et développer des compétences pratiques en cybersécurité.
 
 ---
 
-## 💻 Repository Content
-- Notes (Linux, Networking)
-- TryHackMe write-ups
-- Python tools
+## 📚 Ce que j’apprends
+- Bases Linux
+- Réseaux (IP, ports, HTTP)
+- Cybersécurité / hacking éthique
+- Python pour automatisation
+
+---
+
+## 💻 Contenu du repository
+- Notes (Linux, réseau)
+- Write-ups TryHackMe
+- Scripts Python
 
 ---
 
 ## ⚠️ Disclaimer
-All activities are performed in legal environments (TryHackMe, labs).
+Tous les tests sont réalisés dans un cadre légal (plateformes d’entraînement).
 
 ---
 
-## 📈 Progress
-This repository is updated regularly as I learn.
+## 📈 Progression
+Ce repository est mis à jour régulièrement.ly as I learn.
